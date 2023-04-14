@@ -1,6 +1,6 @@
 {
-  "name": "jugnu-music",
-  "version": "1.0.0",
+  "name": "Cursed-Beat",
+  "version": "69.0.9",
   "description": "I'm a Discord Bot Developer and here is mine Discord Music Bot",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabirsingh2004/JUGNU-MUSIC.git"
+    "url": "git+https://github.com/Pronoy2007/BeastieBeat.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kabirsingh2004/JUGNU-MUSIC/issues"
+    "url": "https://github.com/Pronoy2007/BeastieBeat/issues"
   },
-  "homepage": "https://github.com/kabirsingh2004/JUGNU-MUSIC#readme",
+  "homepage": "https://github.com/Pronoy2007/BeastieBeat#readme",
   "dependencies": {
     "@discordjs/voice": "^0.15.0",
     "@distube/deezer": "^1.0.0",
